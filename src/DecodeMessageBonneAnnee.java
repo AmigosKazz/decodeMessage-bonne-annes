@@ -1,4 +1,4 @@
-public class Main {
+public class DecodeMessageBonneAnnee {
     public static void main(String[] args) {
         System.out.println("Message décodé : " +
                 decodeMessage("Erqqh#dqqìh#ã#wrxv#phv#dplv#hw#pd#idplooh1#Phufl#g*íwuh#wrxm" +
